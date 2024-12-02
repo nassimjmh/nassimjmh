@@ -4,3 +4,6 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n455im07&layout=compact&theme=dark&hide_border=true)
+
+## Skills
+Everything
