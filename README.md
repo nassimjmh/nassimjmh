@@ -20,4 +20,4 @@
 
 ## 🌍️ Languages :
 
-  [![Languages](https://skillicons.dev/icons?i=c,python,bash&theme=dark)](https://github.com/nassimjmh/) 
+  [![Languages](https://skillicons.dev/icons?i=c,bash,python&theme=dark)](https://github.com/nassimjmh/) 
