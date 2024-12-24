@@ -24,7 +24,7 @@
 
 ## 🛠️ Tools:
 
-  [![Tools](https://skillicons.dev/icons?i=discord,git,github,vscode&theme=dark)](https://github.com/nassimjmh)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,git,github,vscode)](https://github.com/nassimjmh)
 
 ## 🔧 Environment :
 
