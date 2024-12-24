@@ -21,3 +21,7 @@
 ## 🌍️ Languages :
 
   [![Languages](https://skillicons.dev/icons?i=c,bash,python&theme=dark)](https://github.com/nassimjmh/) 
+
+## 🛠️ Tools:
+
+  [![Tools](https://skillicons.dev/icons?i=discord,git,github,vscode&theme=dark)](https://github.com/nassimjmh)
